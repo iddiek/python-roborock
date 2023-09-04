@@ -26,6 +26,7 @@ from .code_mappings import (
     RoborockMopModeCode,
     RoborockMopModeS7,
     RoborockMopModeS8ProUltra,
+    RoborockMopModeP10,
     RoborockStateCode,
 )
 from .const import (
@@ -42,6 +43,7 @@ from .const import (
     ROBOROCK_S7_MAXV,
     ROBOROCK_S8,
     ROBOROCK_S8_PRO_ULTRA,
+    ROBOROCK_P10,
     SENSOR_DIRTY_REPLACE_TIME,
     SIDE_BRUSH_REPLACE_TIME,
 )
